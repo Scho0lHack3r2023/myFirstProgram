@@ -32,7 +32,5 @@ right(90)
 forward(100)
 
 
-write("mctf{Th3_0s1nt_m@stEr}", move=False, align="left", font=("Arial", 14, "normal"))
-
 hideturtle()
 done()
